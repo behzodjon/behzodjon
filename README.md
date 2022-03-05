@@ -15,8 +15,7 @@
 <h1> 👨🏻‍💻 Me now </h1>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- ⌛️ &nbsp; Currently I'm busy with:
- - 🌱 &nbsp; Learning Laravel, Nuxt and a lot more tech stuff.
+- ⌛️ &nbsp; Currently I'm busy with:  Learning Laravel, Nuxt and a lot more tech stuff.
 - 📫 &nbsp; Reach me at: behzodjontuit1998@gmail.com
 
 <br/>
@@ -35,7 +34,7 @@
 
 <div align="center">
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wahid-d&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=behzodjon&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
 <div>
  <br/>
