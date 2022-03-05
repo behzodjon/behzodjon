@@ -1,9 +1,8 @@
-<a href="https://t.me/wahid_abduhakimov"><img src="34f9c20179ef29ce7b8c1f52359cf9d3-sticker.png" align="right" height="200"/></a>
 
 # Hi there, I'm Behzod 👋
 
 > A software engineer building awesome web back/front stuff using Laravel tech-stack at `Kwonter`.
-<br/><br/><br/>
+<br/>
 
 <p align="end">
 
@@ -44,7 +43,7 @@
 [![Behzod's Streak](https://github-readme-streak-stats.herokuapp.com?user=behzodjon&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
 [![](https://komarev.com/ghpvc/?username=behzodjon&color=orange&label=Profile%20Views)](https://github.com/behzodjon/behzodjon)
-[![](https://img.shields.io/github/followers/wahid-d?label=GitHub%20Followers)](https://github.com/wahid-d)
+[![](https://img.shields.io/github/followers/behzodjon?label=GitHub%20Followers)](https://github.com/behzodjon)
 
 <!--
 **behzodjon/behzodjon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
