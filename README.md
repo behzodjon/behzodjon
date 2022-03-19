@@ -1,7 +1,7 @@
 
 # Hi there, I'm Behzod 👋
 
-> A software engineer building awesome web back/front stuff using Laravel tech-stack at `Kwonter`.
+> A software engineer building awesome web back/front stuff using Laravel tech-stack at `Upwork`.
 <br/>
 
 <p align="end">
