@@ -24,7 +24,7 @@
 
 - 💻 &nbsp; `.php` | `.html` | `.css` | `.js`
 - 🌐 &nbsp; Laravel | MVC |
-- 🕸 &nbsp; VUe | Tailwind CSS | HTML5 | CSS
+- 🕸 &nbsp; Vue | Tailwind CSS | HTML5 | CSS
 - 🛢 &nbsp; MySql | PostgreSql
 - ⚙️ &nbsp; Git | Linux
 
